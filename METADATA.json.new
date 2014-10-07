@@ -1,0 +1,33 @@
+{
+  "name": "Playball",
+  "designer": "TypeSETit",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 22064,
+  "fonts": [
+    {
+      "name": "Playball",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Playball-Regular-TTF.ttf",
+      "postScriptName": "Playball-Regular",
+      "fullName": "Playball",
+      "copyright": "Copyright (c) 2011 TypeSETit, LLC (typesetit@att.net),\nwith Reserved Font Name \"Playball\""
+    },
+    {
+      "name": "Playball",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Playball-Regular.ttf",
+      "postScriptName": "Playball-Regular",
+      "fullName": "Playball",
+      "copyright": "Copyright (c) 2011 TypeSETit, LLC (typesetit@att.net),\rwith Reserved Font Name \"Playball\""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-12-19"
+}
